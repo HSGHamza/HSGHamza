@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamza shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza shahid" height="30" width="40" /></a>
-<a href="https://fb.com/hamza shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza shahid" height="30" width="40" /></a>
-<a href="https://instagram.com/hsg_hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsg_hamza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamza-shahid-9b8aa3264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza shahid" height="30" width="40" /></a>
+<a href="https://fb.com/hamza.thehero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza shahid" height="30" width="40" /></a>
+<a href="https://instagram.com/hsg_hamza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsg_hamza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

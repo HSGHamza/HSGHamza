@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Shahid</h1>
 <h3 align="center">A passionate Game Developer</h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsghamza&label=Profile%20views&color=0e75b6&style=flat" alt="hsghamza" /> </p>

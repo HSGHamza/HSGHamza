@@ -1,6 +1,6 @@
 ![logo](https://github.com/HSGHamza/HSGHamza/blob/main/HSG.jpg)
 <h1 align="center">Hi 👋, I'm Hamza Shahid</h1>
-<h3 align="center">A passionate Game Developer</h3>
+
 
 
 
